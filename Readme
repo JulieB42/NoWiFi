@@ -1,0 +1,9 @@
+These are the code files for the "No WiFi? No Problem!" presentation. 
+
+Alterative ways of speaking to your Arduino/ESP devices. 
+WiFi is great for ESP32 and other devices. But what do you do if you're at a hotel or conference center? Wifi can be a mess, even if it's free.
+So how do you get around public WiFi and roll your own? There are several ways of doing this with ESP32, one of which is ESP-Now. You can also use packet radio (like LoRa)
+to communicate. 
+
+My own specialty is lights and flashy blinky things, and this presentation will show a few examples. The code here supports that.
+You can take this code and modify it freely.
